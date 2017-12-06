@@ -1,0 +1,553 @@
+[
+    {
+      "title": "The tribes of Palos Verdes",
+      "cover": "/images/tribes.jpg",
+      "year": "2017",
+      "director": "Brendan Malloy",
+      "description":
+        "When the situation at her idyllic Palos Verdes home turns volatile, young Medina attempts to surf her way to happiness",
+      "staring": [
+        {
+          "name": "Maika Monroe"
+        },
+        {
+          "name": "Cody Fern"
+        },
+        {
+          "name": "Justin Kirk"
+        },
+        {
+          "name": "Noah Silver"
+        },
+        {
+          "name": "Milo Gibson"
+        }
+      ]
+    },
+    {
+      "title": "Murder on The Orient Express",
+      "cover": "images/murder.jpg",
+      "year": "2017",
+      "director": "Kenneth Branagh",
+      "description":
+        "When a murder occurs on the train he's travelling on, celebrated detective Hercule Poirot is recruited to solve the case.",
+      "starring": [
+        {
+          "name": "Elliot Levey"
+        },
+        {
+          "name": "David Annen"
+        },
+        {
+          "name": "Joseph Long"
+        },
+        {
+          "name": "Hadley Fraser"
+        },
+        {
+          "name": "Asan Njie"
+        }
+      ]
+    },
+    {
+      "title": "Thoroughbreds",
+      "cover": "images/thoroughbreads.jpg",
+      "year": "2017",
+      "director": "Corey Finley",
+      "description":
+        "Two upper-class teenage girls in suburban Connecticut rekindle their unlikely friendship after years of growing apart. Together, they hatch a plan to solve both of their problems-no matter what the cost.",
+      "starring": [
+        {
+          "name": "Max Ripley"
+        },
+        {
+          "name": "Anton Yelchin"
+        },
+        {
+          "name": "Olivia Cooke"
+        },
+        {
+          "name": "Francie Swift"
+        },
+        {
+          "name": "Leah Procito"
+        }
+      ]
+    },
+    {
+      "title": "Jack Ryan",
+      "cover": "images/jackRyan.jpg",
+      "year": "2017",
+      "director": "Graham Roland",
+      "description":
+        "Tom Clancy's Jack Ryan follows an up-and-coming CIA analyst thrust into a dangerous field assignment for the first time. The series follows Ryan as he uncovers a pattern in terrorist communication that launches him into the center of a dangerous gambit with a new breed of terrorism that threatens destruction on a global scale.",
+      "starring": [
+        {
+          "name": "Ali Suliman"
+        },
+        {
+          "name": "Karim Zein"
+        },
+        {
+          "name": "Mena Massoud"
+        },
+        {
+          "name": "John Krasinski"
+        },
+        {
+          "name": "Victoria Sanchez"
+        }
+      ]
+    },
+    {
+      "title": "All The Money In The World",
+      "cover": "images/moneyworld.jpg",
+      "year": "2017",
+      "director": "Ridley Scott",
+      "description":
+        "The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.",
+      "starring": [
+        {
+          "name": "Mark Wahlberg"
+        },
+        {
+          "name": "Stacy Martin"
+        },
+        {
+          "name": "Timothy Hutton"
+        },
+        {
+          "name": "Andrew Buchan"
+        },
+        {
+          "name": "Romain Duris"
+        }
+      ]
+    },
+    {
+      "title": "The Dark",
+      "cover": "images/dark.jpg",
+      "year": "2017",
+      "director": "Baran bo Odar",
+      "description":
+        "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+      "starring": [
+        {
+          "name": "Maja Schone"
+        },
+        {
+          "name": "Louis Hofmann"
+        },
+        {
+          "name": "Lisa Vicari"
+        },
+        {
+          "name": "Deborah Knaufmann"
+        },
+        {
+          "name": "Tatja Seibt"
+        }
+      ]
+    },
+    {
+      "title": "Star Wars The Last Jedi",
+      "cover": "images/starwars.jpg",
+      "year": "2017",
+      "director": "Rian Johnson",
+      "description":
+        "Having taken her first steps into the Jedi world, Rey joins Luke Skywalker on an adventure with Leia, Finn and Poe that unlocks mysteries of the Force and secrets of the past.",
+      "starring": [
+        {
+          "name": "Maja Schone"
+        },
+        {
+          "name": "Louis Hofmann"
+        },
+        {
+          "name": "Lisa Vicari"
+        },
+        {
+          "name": "Deborah Knaufmann"
+        },
+        {
+          "name": "Tatja Seibt"
+        }
+      ]
+    },
+    {
+      "title": "Black Mirror",
+      "cover": "images/blackmirror.jpg",
+      "year": "2017",
+      "director": "Charlie Brooker",
+      "description":
+        "A television anthology series that shows the dark side of life and technology.",
+      "starring": [
+        {
+          "name": "Daniel Westwood"
+        },
+        {
+          "name": "Michaela Coel"
+        },
+        {
+          "name": "Jade Clarke"
+        },
+        {
+          "name": "Beatrice Robertson"
+        },
+        {
+          "name": "Hannah John-Karmen"
+        }
+      ]
+    },
+    {
+      "title": "Bullet Head",
+      "cover": "images/bullethead.jpg",
+      "year": "2017",
+      "director": "Paul Solet",
+      "description":
+        "Three career criminals find themselves trapped in a warehouse with the law closing in and an even worse threat waiting inside.",
+      "starring": [
+        {
+          "name": "Adrien Brody"
+        },
+        {
+          "name": "John Malkovich"
+        },
+        {
+          "name": "Owen Davies"
+        },
+        {
+          "name": "Cristina Segovia"
+        },
+        {
+          "name": "Velizar Binev"
+        }
+      ]
+    },
+    {
+      "title": "Call Me By Your Name",
+      "cover": "images/callme.jpg",
+      "year": "2017",
+      "director": "Luca Guadagnino",
+      "description":
+        "In Northern Italy in 1983, seventeen year-old Elio begins a relationship with visiting Oliver, his father's research assistant, with whom he bonds over his emerging sexuality, their Jewish heritage, and the beguiling Italian landscape.",
+      "starring": [
+        {
+          "name": "Armie Hammer"
+        },
+        {
+          "name": "Timothee Chalamet"
+        },
+        {
+          "name": "Amira Casar"
+        },
+        {
+          "name": "Vanda Capriolo"
+        },
+        {
+          "name": "Elena Rucci"
+        }
+      ]
+    },
+    {
+      "title": "Detroit",
+      "cover": "images/detroit.jpg",
+      "year": "2017",
+      "director": "Kathryn Bigelow",
+      "description":
+        "Fact-based drama set during the 1967 Detroit riots in which a group of rogue police officers respond to a complaint with retribution rather than justice on their minds.",
+      "starring": [
+        {
+          "name": "John Boyega"
+        },
+        {
+          "name": "Will Poulter"
+        },
+        {
+          "name": "Jack Reyner"
+        },
+        {
+          "name": "Vanda Capriolo"
+        },
+        {
+          "name": "Elena Rucci"
+        }
+      ]
+    },
+    {
+      "title": "The Foreigner",
+      "cover": "images/foreigner.jpg",
+      "year": "2017",
+      "director": "Martin Campbell",
+      "description":
+        "A humble businessman with a buried past seeks justice when his daughter is killed in an act of terrorism. A cat-and-mouse conflict ensues with a government official, whose past may hold clues to the killers' identities.",
+      "starring": [
+        {
+          "name": "John Cronin"
+        },
+        {
+          "name": "Aaron Monaghan"
+        },
+        {
+          "name": "Mark Tandy"
+        },
+        {
+          "name": "Pierce Brosnan"
+        },
+        {
+          "name": "Charlie Murphy"
+        }
+      ]
+    },
+    {
+      "title": "Godless",
+      "cover": "images/godless.jpg",
+      "year": "2017",
+      "director": "Scott Frank",
+      "description":
+        "Frank Griffin, an outlaw terrorizing the 1880s American West, hunts down Roy Goode, his partner turned enemy. Roy hides out at a ranch as Frank's chase leads him to La Belle, New Mexico - a town mysteriously made up almost entirely of women.",
+      "starring": [
+        {
+          "name": "Jack O Connell"
+        },
+        {
+          "name": "Michelle Dockery"
+        },
+        {
+          "name": "Scott McNairy"
+        },
+        {
+          "name": "Jeff Daniels"
+        },
+        {
+          "name": "Tantoo Cardinal"
+        }
+      ]
+    },
+    {
+      "title": "Hostiles",
+      "cover": "images/hostiles.jpg",
+      "year": "2017",
+      "director": "Scott Cooper",
+      "description":
+        "In 1892, a legendary Army captain reluctantly agrees to escort a Cheyenne chief and his family through dangerous territory.",
+      "starring": [
+        {
+          "name": "Rosamund Pike"
+        },
+        {
+          "name": "Christian Bale"
+        },
+        {
+          "name": "Jesse Plemons"
+        },
+        {
+          "name": "Stephen Lang"
+        },
+        {
+          "name": "Timothee Chalamet"
+        }
+      ]
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "cover": "images/infinity.jpg",
+      "year": "2018",
+      "director": "Anthony Russo",
+      "description":
+        "The Avengers and their Super Hero allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "starring": [
+        {
+          "name": "Tessa Thompson"
+        },
+        {
+          "name": "Tom Hiddleston"
+        },
+        {
+          "name": "Tom Holland"
+        },
+        {
+          "name": "Mark Ruffalo"
+        },
+        {
+          "name": "Zoe Saldana"
+        }
+      ]
+    },
+    {
+      "title": "Justice League",
+      "cover": "images/justiceLeague.jpg",
+      "year": "2017",
+      "director": "Zack Snyder",
+      "description":
+        "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy.",
+      "starring": [
+        {
+          "name": "Ben Afleck"
+        },
+        {
+          "name": "Ezra Miller"
+        },
+        {
+          "name": "Ray Fisher"
+        },
+        {
+          "name": "Jeremy Irons"
+        },
+        {
+          "name": "Diane Lane"
+        }
+      ]
+    },
+    {
+      "title": "Lady Bird",
+      "cover": "images/ladybird.jpg",
+      "year": "2017",
+      "director": "Greta Gerwig",
+      "description":
+        "In the early 2000s, an artistically-inclined seventeen year-old comes of age in Sacramento, California.",
+      "starring": [
+        {
+          "name": "Jake McDorman"
+        },
+        {
+          "name": "Lois Smith"
+        },
+        {
+          "name": "Beanie Feldstone"
+        },
+        {
+          "name": "Kathryn Newton"
+        },
+        {
+          "name": "Lucas Hedges"
+        }
+      ]
+    },
+    {
+      "title": "The Last Post",
+      "cover": "images/lastpost.jpg",
+      "year": "2017",
+      "director": "Jonny Campbell",
+      "description":
+        "Aden 1965. This is the story of a British army unit fighting a Yemeni insurgency in the Middle East and the women and children who were there with them.",
+      "starring": [
+        {
+          "name": "Ben Miles"
+        },
+        {
+          "name": "Toby Woolf"
+        },
+        {
+          "name": "Amanda Drew"
+        },
+        {
+          "name": "Tom Glynn-Carney"
+        },
+        {
+          "name": "Richard Dillane"
+        }
+      ]
+    },
+    {
+      "title": "Midnight Sun",
+      "cover": "images/midnightdsun.jpg",
+      "year": "2018",
+      "director": "Scott Speer",
+      "description":
+        "Based on the Japanese film, Midnight Sun centers on Katie, a 17-year-old sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.",
+      "starring": [
+        {
+          "name": "Ben Miles"
+        },
+        {
+          "name": "Toby Woolf"
+        },
+        {
+          "name": "Amanda Drew"
+        },
+        {
+          "name": "Tom Glynn-Carney"
+        },
+        {
+          "name": "Richard Dillane"
+        }
+      ]
+    },
+    {
+      "title": "Wind River",
+      "cover": "images/windriver.jpg",
+      "year": "2017",
+      "director": "Taylor Sheridan",
+      "description":
+        "A veteran tracker with the Fish and Wildlife Service helps to investigate the murder of a young Native American woman, and uses the case as a means of seeking redemption for an earlier act of irresponsibility which ended in tragedy.",
+      "starring": [
+        {
+          "name": "Teo Brioness"
+        },
+        {
+          "name": "Elizabeth Olsen"
+        },
+        {
+          "name": "Eric Lange"
+        },
+        {
+          "name": "Jeremy Renner"
+        },
+        {
+          "name": "Julia Jones"
+        }
+      ]
+    },
+    {
+      "title": "Permission",
+      "cover": "images/permission.jpg",
+      "year": "2017",
+      "director": "Brian Crano",
+      "description":
+        "A woman on the brink of a marriage proposal is told by a friend that she should date other men before spending the rest of her life with her boyfriend.",
+      "starring": [
+        {
+          "name": "Dan Stevens"
+        },
+        {
+          "name": "Rabecca Hall"
+        },
+        {
+          "name": "Raul Castillo"
+        },
+        {
+          "name": "Michelle Hurst"
+        },
+        {
+          "name": "Gina Gershon"
+        }
+      ]
+    },
+    {
+      "title": "Loving Vincent",
+      "cover": "images/ramrandt.jpg",
+      "year": "2017",
+      "director": "Hugh Welchman",
+      "description":
+        "In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+      "starring": [
+        {
+          "name": "Douglas Booth"
+        },
+        {
+          "name": "Josh Burdett"
+        },
+        {
+          "name": "Robin Hodges"
+        },
+        {
+          "name": "John Sessions"
+        },
+        {
+          "name": "Aidan Turner"
+        }
+      ]
+    }
+  ]
+  
